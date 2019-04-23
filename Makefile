@@ -12,6 +12,3 @@ install:
 
 clean:
 	cd src && rake clean
-
-deb:
-	debuild -i -us -uc -b
