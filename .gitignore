@@ -18,3 +18,5 @@ tools/netns-empty/netns-empty
 !Makefile
 
 .vscode
+
+build
